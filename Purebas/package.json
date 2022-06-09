@@ -1,0 +1,22 @@
+{
+  "name": "cgdpcnpm",
+  "version": "1.0.0",
+  "description": "contruir un paquete para node",
+  "main": "src/Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javacript",
+    "node",
+    "paquete"
+  ],
+  "author": "Luis",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.3"
+  },
+  "devDependencies": {
+    "date-fns": "^2.28.0"
+  }
+}
